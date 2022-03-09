@@ -1,0 +1,6 @@
+CRITICAL - 2022-03-01 07:34:43 --> Could not check compatibility between App\Filters\Auth::before(App\Filters\RequesInterface $request, $arguments = null) and CodeIgniter\Filters\FilterInterface::before(CodeIgniter\HTTP\RequestInterface $request, $arguments = null), because class App\Filters\RequesInterface is not available
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-01 07:36:48 --> Could not check compatibility between App\Filters\Auth::before(App\Filters\RequesInterface $request, $arguments = null) and CodeIgniter\Filters\FilterInterface::before(CodeIgniter\HTTP\RequestInterface $request, $arguments = null), because class App\Filters\RequesInterface is not available
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}

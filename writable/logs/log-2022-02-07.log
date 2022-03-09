@@ -1,0 +1,135 @@
+CRITICAL - 2022-02-07 19:56:58 --> Undefined property: App\Controllers\UserController::$users
+#0 D:\xampp\htdocs\app_cafe_cintia\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 23)
+#1 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_cintia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_cintia\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-07 19:57:35 --> Undefined property: App\Controllers\UserController::$user
+#0 D:\xampp\htdocs\app_cafe_cintia\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 23)
+#1 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_cintia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_cintia\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-07 19:59:23 --> Undefined property: App\Controllers\UserController::$users
+#0 D:\xampp\htdocs\app_cafe_cintia\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 23)
+#1 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_cintia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_cintia\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-07 20:02:24 --> Undefined property: App\Controllers\UserController::$users
+#0 D:\xampp\htdocs\app_cafe_cintia\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 23)
+#1 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_cintia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_cintia\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-07 20:02:26 --> Undefined property: App\Controllers\UserController::$users
+#0 D:\xampp\htdocs\app_cafe_cintia\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 23)
+#1 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_cintia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_cintia\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-07 20:02:50 --> Undefined property: App\Controllers\UserController::$users
+#0 D:\xampp\htdocs\app_cafe_cintia\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 23)
+#1 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_cintia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_cintia\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-07 20:05:11 --> Undefined property: App\Controllers\UserController::$users
+#0 D:\xampp\htdocs\app_cafe_cintia\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 23)
+#1 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_cintia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_cintia\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-07 20:05:13 --> Undefined property: App\Controllers\UserController::$users
+#0 D:\xampp\htdocs\app_cafe_cintia\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 23)
+#1 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_cintia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_cintia\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-07 20:05:34 --> Undefined property: App\Controllers\UserController::$users
+#0 D:\xampp\htdocs\app_cafe_cintia\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 23)
+#1 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_cintia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_cintia\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-07 20:05:49 --> Undefined property: App\Controllers\UserController::$user
+#0 D:\xampp\htdocs\app_cafe_cintia\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 23)
+#1 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_cintia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_cintia\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-07 20:06:07 --> Undefined property: App\Controllers\UserController::$users
+#0 D:\xampp\htdocs\app_cafe_cintia\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 23)
+#1 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_cintia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_cintia\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-07 20:08:28 --> Undefined property: App\Controllers\UserController::$users
+#0 D:\xampp\htdocs\app_cafe_cintia\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 23)
+#1 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_cintia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_cintia\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-07 20:08:32 --> Undefined property: App\Controllers\UserController::$users
+#0 D:\xampp\htdocs\app_cafe_cintia\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 23)
+#1 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_cintia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_cintia\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-07 20:09:48 --> Undefined property: App\Controllers\UserController::$users
+#0 D:\xampp\htdocs\app_cafe_cintia\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 23)
+#1 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_cintia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_cintia\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-07 20:09:49 --> Undefined property: App\Controllers\UserController::$users
+#0 D:\xampp\htdocs\app_cafe_cintia\app\Controllers\UserController.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 23)
+#1 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_cintia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_cintia\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-07 20:19:14 --> Undefined constant "App\Controllers\PASSWORD_DEFAUL"
+#0 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(825): App\Controllers\UserController->simpan()
+#1 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#2 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\app_cafe_cintia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xampp\htdocs\app_cafe_cintia\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-07 20:19:32 --> Undefined property: App\Controllers\UserController::$Users
+#0 D:\xampp\htdocs\app_cafe_cintia\app\Controllers\UserController.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 35)
+#1 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(825): App\Controllers\UserController->simpan()
+#2 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 D:\xampp\htdocs\app_cafe_cintia\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\app_cafe_cintia\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xampp\htdocs\app_cafe_cintia\system\Commands\Server\rewrite.php(43): require_once('D:\\xampp\\htdocs...')
+#6 {main}
